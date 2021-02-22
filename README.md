@@ -29,10 +29,13 @@ More details on starting the application when the application gets further into 
 
 # Current Technologies Used
 Will update this list as development continues.
+Front-end: Bootstrap 4.6.0, Sass (Development)
 
 # Current Deployment
 Application is currently not deployed.
-Story Book Deployment (Chromatic): https://603217f50a693a00237cb703-ovvvtvdoto.chromatic.com/
+
+
+StoryBook Deployment (Chromatic): https://603217f50a693a00237cb703-ovvvtvdoto.chromatic.com/
 
 # Authors
     * Jason Ouyang
